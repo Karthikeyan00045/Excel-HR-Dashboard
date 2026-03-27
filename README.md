@@ -29,3 +29,8 @@ It provides insights into employee demographics, salaries, performance ratings, 
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - GitHub (Version control and portfolio showcase)
 
+# 💼 Work With Me
+Explore my recruiter‑ready Tableau dashboards and analytics portfolio.  
+👉 [View my Fiverr Portfolio](https://www.fiverr.com/users/karthikeyang756/portfolio)
+
+
